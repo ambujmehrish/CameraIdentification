@@ -1,0 +1,23 @@
+derender v1.0
+
+Copyright (C) 2014 Ayan Chakrabarti, Ying Xiong, Baochen Sun, Trevor
+Darrell, Daniel Scharstein, Todd Zickler, and Kate Saenko.
+
+This is a reference implementation of the algorithms described in our
+paper:
+
+Ayan Chakrabarti, Ying Xiong, Baochen Sun, Trevor Darrell, Daniel
+Scharstein, Todd Zickler, and Kate Saenko, "Modeling Radiometric
+Uncertainty for Vision with Tone-mapped Color Images," arXiv:
+1311.6887 [cs.CV], 2013.
+
+This source code is currently being made available for non-commercial
+research use only.
+
+For details on how to compile and use this code, please visit:
+
+http://vision.seas.harvard.edu/derender/
+
+This source code contains the libSVM libraries that from Chih-Chung
+Chang and Chih-Jen Lin. Please see the COPYRIGHT and README files in
+the ForwardFit/svm/ for details.
